@@ -1,7 +1,28 @@
-body{
-  font-family: Georgia, 'Times New Roman', Times, serif;
+ * {
+        outline: 1px solid red;
+    }
+header{
+  background-color: rgb(65, 7, 7) ;
+  padding: 2%;
+  color: white;
+  text-align: center;
+  box-shadow: 20px black;
 }
-header{}
-input{}
-button{}
-#answer{}
+.container{
+  margin-top: 30px;
+background-color: rgb(7, 7, 73);
+text-align: center;
+padding: 50px;
+border-radius: 30px;
+
+}
+
+#num1{}
+#num2{}
+button{
+  padding: 10px;
+}
+#answer{
+  
+
+}
